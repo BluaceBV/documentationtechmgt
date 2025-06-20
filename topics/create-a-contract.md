@@ -26,7 +26,7 @@ A contract card is created. A contract consists of a header with lines. It is es
 
 Below is an explanation of the fields that have not yet been covered by the contract template.
 
-#### Header, General
+### General
 
 ![Image](../images/image33.png)
 
@@ -45,14 +45,14 @@ Below is an explanation of the fields that have not yet been covered by the cont
 
 When a contract is Released, the concept is that the contract header and lines are checked and ready for further processing (shipping and invoicing). After shipping, contract data is transferred to sales orders with the status released. It is basically not the intention that the sales order will be adjusted, so editing the contract lines on a sales order is not recommended.
 
-#### Header, Invoice details
+### Invoice details
 When a contract is created from a template, it's possible to deviate from the default values on the customer or contract template here.
 
 F.i. the The currency code can be filled with a different currency. The Direct Debit Mandate ID can also be linked. If a customer only wants to use Direct Debit collection for contracts and f.i. all other orders processed through bank, this can be controlled using this field.
 
 ![Image](../images/image34.png)
 
-#### Lines
+### Lines
 
 <u>Item No.</u>
 
