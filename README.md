@@ -13,7 +13,7 @@ With the contracts module, it is possible to periodically invoice items to the c
 * [Contract overview](topics/create-a-contract.md#Contract-overview)
 * [Comments](topics/create-a-contract.md#Comments)
 ### [Processing contracts](topics/processing-contracts.md)
-* [Release and send contracts](topics/processing-contracts.md#release-and-send-contracts)
+* [Release and ship contracts](topics/processing-contracts.md#Release-and-ship-contracts)
 * [Correcting contracts](topics/processing-contracts.md#correcting-contracts)
 ### [Re-indexing](topics/reindex.md)
 ### [Deleting contracts/contract lines](topics/deleting-contracts-contract-lines.md)
